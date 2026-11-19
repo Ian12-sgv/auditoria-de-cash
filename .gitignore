@@ -1,0 +1,19 @@
+# Dependencias y compilados
+node_modules/
+dist/
+release/
+
+# Configuración local y secretos (no subir)
+config.json
+conexion.json
+claves.json
+permisos.json
+
+# Utilidades locales que pueden contener credenciales
+decodificar.js
+
+# Logs y temporales
+*.log
+*.local
+.DS_Store
+Thumbs.db

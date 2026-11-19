@@ -1,0 +1,9 @@
+{
+  "server": "",
+  "port": 1433,
+  "database": "",
+  "user": "sa",
+  "password": "",
+  "encrypt": true,
+  "trustServerCertificate": true
+}
